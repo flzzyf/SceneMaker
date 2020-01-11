@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: DefaultLight
+    uniqueID: 3626162959
+    locked: 0
+  - name: Middleground
+    uniqueID: 1688689589
+    locked: 0
+  - name: MiddlegroundLight
+    uniqueID: 3089773283
+    locked: 0
+  - name: Role
+    uniqueID: 4109093219
+    locked: 0
+  - name: Foreground
+    uniqueID: 2996178029
+    locked: 0
+  - name: ForegroundLight
+    uniqueID: 3935863181
+    locked: 0
+  - name: BlackScreen
+    uniqueID: 2128191191
+    locked: 0

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3374c74968080b14384b68f4f78b4311
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: a2ef765fa40f7994a9a2372405b97fe2, type: 3}
+  pixelsPerUnit: 100
+  pivot: {x: 0.5, y: 0}
+  filterMode: 0
+  createBlackScreens: 1
+  blackScreenExtrudeMultiplier: 2

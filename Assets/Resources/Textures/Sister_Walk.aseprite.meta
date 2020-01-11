@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: 7a4d8d3c1f9f48545bf73c201de40aa4
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 267e295496b7a3f4fa27121905fc4233, type: 3}
+  textureSettings:
+    textureType: 8
+    pixelsPerUnit: 100
+    transparentMask: 0
+    transparentColor: {r: 1, g: 0, b: 1, a: 1}
+    meshType: 1
+    extrudeEdges: 1
+    spritePivot: {x: 0.5, y: 0}
+    generatePhysics: 1
+    wrapMode: 1
+    filterMode: 0
+    tileSize: {x: 32, y: 32}
+    tilePadding: {x: 0, y: 0}
+    tileOffset: {x: 0, y: 0}
+    flipTexture: 0
+  animationSettings:
+  - animationName: Loop
+    loopTime: 1
+    about: "Animation Type:\tForward\r\nAnimation:\tFrom: 0; To: 7"
+  atlas: {fileID: -8328923581568760697, guid: 7a4d8d3c1f9f48545bf73c201de40aa4, type: 3}
+  importType: 0
