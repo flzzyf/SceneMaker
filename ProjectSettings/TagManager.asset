@@ -38,26 +38,44 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: BG
+    uniqueID: 3777730903
+    locked: 0
+  - name: B3
+    uniqueID: 532280453
+    locked: 0
+  - name: B3L
+    uniqueID: 2576469375
+    locked: 0
+  - name: B2
+    uniqueID: 3555149893
+    locked: 0
+  - name: B2L
+    uniqueID: 808569925
+    locked: 0
+  - name: B1
+    uniqueID: 879350781
+    locked: 0
+  - name: B1L
+    uniqueID: 1019041723
+    locked: 0
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: DefaultLight
-    uniqueID: 3626162959
-    locked: 0
-  - name: Middleground
-    uniqueID: 1688689589
-    locked: 0
-  - name: MiddlegroundLight
-    uniqueID: 3089773283
     locked: 0
   - name: Role
     uniqueID: 4109093219
     locked: 0
-  - name: Foreground
-    uniqueID: 2996178029
+  - name: F1
+    uniqueID: 3880176803
     locked: 0
-  - name: ForegroundLight
-    uniqueID: 3935863181
+  - name: F1L
+    uniqueID: 2071412451
+    locked: 0
+  - name: F2
+    uniqueID: 2709116947
+    locked: 0
+  - name: F2L
+    uniqueID: 807993615
     locked: 0
   - name: BlackScreen
     uniqueID: 2128191191

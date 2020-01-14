@@ -358,6 +358,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: XingYeStreet
       objectReference: {fileID: 0}
+    - target: {fileID: 1206057304934272332, guid: b0c3a9585adc81b4d8926e65567c8c5f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 9050041537381843321, guid: b0c3a9585adc81b4d8926e65567c8c5f,
         type: 3}
       propertyPath: m_LocalPosition.x
